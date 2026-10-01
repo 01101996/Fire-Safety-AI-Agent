@@ -1,0 +1,13 @@
+ID,Topic,Primary standard,Secondary reference,Assessment approach
+FS-01,Occupancy / hazard classification,BCP Fire Safety Provisions 2016,NFPA 1 / NFPA 101,Determine occupancy and hazard before final design
+FS-02,Portable extinguishers,NFPA 10-2026,BCP Fire Safety Provisions 2016,Verify extinguisher type rating placement and travel distance
+FS-03,Fire alarm / detection,NFPA 72,BCP Fire Safety Provisions 2016,Verify applicability device layout alarm audibility testing and maintenance
+FS-04,Means of egress,NFPA 101,BCP Fire Safety Provisions 2016,Verify occupant load exit capacity travel distance discharge and doors
+FS-05,Automatic sprinklers,NFPA 13,BCP Fire Safety Provisions 2016,Hydraulic design by occupancy/hazard and approved design
+FS-06,Standpipe / hydrant,NFPA 14,BCP Fire Safety Provisions 2016,Verify required system type coverage and water supply
+FS-07,Fire pump,NFPA 20,BCP Fire Safety Provisions 2016,Hydraulic calculation and pump selection
+FS-08,Fire water tank,NFPA 22,BCP Fire Safety Provisions 2016,Determine required duration/capacity from system demand
+FS-09,Commercial cooking,NFPA 96,BCP/AHJ,Verify hood duct suppression and shutdown requirements
+FS-10,Emergency lighting / exit signs,NFPA 101,BCP Fire Safety Provisions 2016,Verify egress illumination and identification
+FS-11,Emergency planning,BCP Fire Safety Provisions 2016,NFPA 101,Verify ERP drills training and records
+FS-12,Fire doors / compartmentation,NFPA 101,BCP Fire Safety Provisions 2016,Verify rating protected openings and compartmentation
